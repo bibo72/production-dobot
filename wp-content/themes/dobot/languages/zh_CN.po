@@ -1,0 +1,1338 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dobot\n"
+"POT-Creation-Date: 2017-04-20 15:47+0800\n"
+"PO-Revision-Date: 2017-04-20 15:47+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: cms-page-head.php:16 cms-page-head.php:18
+#: inc/storefront-template-functions.php:444 news-events.php:34
+msgid "News &amp; Event"
+msgstr ""
+
+#: cms-page-head.php:21 cms-page-head.php:23
+#: inc/storefront-template-functions.php:445 news-events.php:35
+msgid "About Us"
+msgstr ""
+
+#: cms-page-head.php:26 cms-page-head.php:28
+#: inc/storefront-template-functions.php:446 news-events.php:36
+msgid "Contact Us"
+msgstr ""
+
+#: cms-page-head.php:31 cms-page-head.php:33
+#: inc/storefront-template-functions.php:447 news-events.php:37
+msgid "Join Us"
+msgstr ""
+
+#: cms-page-head.php:36 cms-page-head.php:38
+#: inc/storefront-template-functions.php:448 news-events.php:38
+msgid "Partnership"
+msgstr ""
+
+#: comments.php:24
+msgid "Comments . "
+msgstr ""
+
+#: comments.php:27
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:37 tutorial-detail.php:37 video-detail.php:34
+msgid "Cancel"
+msgstr ""
+
+#: comments.php:39
+#, php-format
+msgid ""
+"You must be <a href=\"%s\" class=\"pblue pbold\">logged in</a> to post a "
+"comment."
+msgstr ""
+
+#: comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:57
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:76 comments.php:78
+msgid "Load More"
+msgstr ""
+
+#: content-none.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:26
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:29
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:39
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: contest-detail.php:47 contest-list.php:20 entries-detail.php:50
+msgid "Join Now"
+msgstr ""
+
+#: contest-detail.php:58
+msgid "Detail"
+msgstr ""
+
+#: contest-detail.php:60 contest-detail.php:193 contest-list.php:69
+#: contest-list.php:140 dobot-functions.php:278 dobot-functions.php:279
+#: dobot-functions.php:283
+msgid "Entries"
+msgstr ""
+
+#: contest-detail.php:63 contest-detail.php:168
+msgid "Winners"
+msgstr ""
+
+#: contest-detail.php:66
+msgid "My Work"
+msgstr ""
+
+#: contest-detail.php:81
+msgid "Contest: "
+msgstr ""
+
+#: contest-detail.php:92
+msgid "ENTRIES"
+msgstr ""
+
+#: contest-detail.php:93 entries-detail.php:86
+msgid "VIEWS"
+msgstr ""
+
+#: contest-detail.php:105 contest-detail.php:138 contest-list.php:144
+msgid "Ongoing"
+msgstr ""
+
+#: contest-detail.php:107 contest-detail.php:142 contest-functions.php:167
+#: contest-list.php:39 contest-list.php:149
+msgid "Being Judged"
+msgstr ""
+
+#: contest-detail.php:109 contest-detail.php:146 contest-list.php:42
+msgid "Closed"
+msgstr ""
+
+#: contest-detail.php:111 contest-list.php:153
+msgid "Open Soon"
+msgstr ""
+
+#: contest-detail.php:136 contest-list.php:36
+msgid "Open"
+msgstr ""
+
+#: contest-detail.php:156
+msgid "How to Write a Great Contest Article »"
+msgstr ""
+
+#: contest-detail.php:159
+msgid "JOIN NOW!"
+msgstr ""
+
+#: contest-detail.php:178
+msgid "Winners are selecting, please keep an eye on."
+msgstr ""
+
+#: contest-detail.php:227
+msgid "The contest has no entries."
+msgstr ""
+
+#: contest-functions.php:115
+msgid "Insert Image"
+msgstr ""
+
+#: contest-functions.php:128
+msgid "Please Choose..."
+msgstr ""
+
+#: contest-functions.php:150
+msgid "Subtitle"
+msgstr ""
+
+#: contest-functions.php:158
+msgid "Start Time"
+msgstr ""
+
+#: contest-functions.php:176
+msgid "End Time"
+msgstr ""
+
+#: contest-functions.php:185
+msgid "Contest Tag"
+msgstr ""
+
+#: contest-functions.php:186 dobot-functions.php:181 dobot-functions.php:325
+#: dobot-functions.php:573
+msgid "Separated by commas"
+msgstr ""
+
+#: contest-functions.php:194
+msgid "Banner"
+msgstr ""
+
+#: contest-functions.php:195 contest-functions.php:204
+msgid "Banner of the details page"
+msgstr ""
+
+#: contest-functions.php:203
+msgid "Banner Text"
+msgstr ""
+
+#: contest-functions.php:225
+msgid "Introduction"
+msgstr ""
+
+#: contest-functions.php:226
+msgid "the main introduction of contest"
+msgstr ""
+
+#: contest-functions.php:235
+msgid "Prize Setting"
+msgstr ""
+
+#: contest-functions.php:293
+msgid "Days"
+msgstr ""
+
+#: contest-functions.php:296
+msgid "Hours"
+msgstr ""
+
+#: contest-functions.php:465
+msgid "Pending"
+msgstr ""
+
+#: contest-functions.php:466
+msgid "Publish"
+msgstr ""
+
+#: contest-functions.php:467
+msgid "Draft"
+msgstr ""
+
+#: contest-functions.php:490 contest-functions.php:500
+#: contest-functions.php:504 contest-functions.php:562 entries-detail.php:95
+msgid "Voted!"
+msgstr ""
+
+#: contest-functions.php:553 contest-functions.php:611 entries-detail.php:75
+msgid "By"
+msgstr ""
+
+#: contest-functions.php:560
+msgid "Vote Now"
+msgstr ""
+
+#: contest-functions.php:617 contest-list.php:67 contest-list.php:139
+#: dobot-functions.php:203 dobot-functions.php:349
+#: inc/storefront-functions.php:948 inc/storefront-functions.php:993
+#: tutorials.php:113 videos.php:140
+msgid "Views"
+msgstr ""
+
+#: contest-functions.php:618 functions.php:513
+#: inc/storefront-template-functions.php:550
+msgid "Comments"
+msgstr ""
+
+#: contest-functions.php:619 dobot-functions.php:106
+#: inc/storefront-functions.php:947 inc/storefront-functions.php:992
+msgid "Likes"
+msgstr ""
+
+#: contest-functions.php:624
+msgid "Grand Prize"
+msgstr ""
+
+#: contest-functions.php:626
+msgid "First Prize"
+msgstr ""
+
+#: contest-functions.php:628
+msgid "Second Prize"
+msgstr ""
+
+#: contest-functions.php:740
+msgid "Your suggestion has been submitted, thanks for your support."
+msgstr ""
+
+#: contest-list.php:17
+msgid "DOBOT CONTEST"
+msgstr ""
+
+#: contest-list.php:18
+msgid "Show off your wonderful skills and wow all of us with DOBOT."
+msgstr ""
+
+#: contest-list.php:33 dobot-functions.php:174 dobot-functions.php:318
+#: dobot-functions.php:566 tutorials.php:45 videos.php:34
+msgid "All"
+msgstr ""
+
+#: contest-list.php:60
+msgid "My Contest"
+msgstr ""
+
+#: contest-list.php:66 custom-list-table-contest-kind.php:106 tutorials.php:112
+#: videos.php:139
+msgid "Date"
+msgstr ""
+
+#: contest-list.php:68
+msgid "Soon End"
+msgstr ""
+
+#: contest-list.php:146
+msgid "Left:"
+msgstr ""
+
+#: contest-list.php:151
+msgid "Contest Closed"
+msgstr ""
+
+#: contest-list.php:170
+msgid "No find contest"
+msgstr ""
+
+#: contest-list.php:182
+msgid "What kind of competition you want to join?"
+msgstr ""
+
+#: contest-list.php:183
+msgid "Tell us more about the contest you want to join in."
+msgstr ""
+
+#: contest-list.php:195
+msgid "name"
+msgstr ""
+
+#: contest-list.php:196
+msgid "email"
+msgstr ""
+
+#: contest-list.php:199
+msgid "text"
+msgstr ""
+
+#: contest-list.php:202
+msgid "Submit"
+msgstr ""
+
+#: custom-list-table-contest-kind.php:81
+msgid "Delete"
+msgstr ""
+
+#: custom-list-table-contest-kind.php:103 tutorials.php:114 videos.php:141
+msgid "Name"
+msgstr ""
+
+#: custom-list-table-contest-kind.php:104
+msgid "E-Mail"
+msgstr ""
+
+#: custom-list-table-contest-kind.php:105
+msgid "Content"
+msgstr ""
+
+#: dobot-faq.php:27 dobot-faq.php:40 dobot-faq.php:55
+#: inc/admin/welcome-screen/component-intro.php:57
+msgid "FAQ"
+msgstr ""
+
+#: dobot-faq.php:28
+msgid ""
+"Find answers to frequently asked questions, including product updates and "
+"how-to guides."
+msgstr ""
+
+#: dobot-faq.php:37 download-center.php:44 entries-detail.php:58
+#: tutorial-detail.php:80 video-detail.php:73
+msgid "Home"
+msgstr ""
+
+#: dobot-faq.php:38 download-center.php:45
+msgid "Support"
+msgstr ""
+
+#: dobot-faq.php:46 entries-detail.php:63
+msgid "Back"
+msgstr ""
+
+#: dobot-faq.php:123
+msgid "Could not find any FAQS."
+msgstr ""
+
+#: dobot-functions.php:15 dobot-functions.php:16 dobot-functions.php:26
+msgid "News & Events"
+msgstr ""
+
+#: dobot-functions.php:17 dobot-functions.php:63 dobot-functions.php:136
+#: dobot-functions.php:280 dobot-functions.php:528
+msgid "Add New"
+msgstr ""
+
+#: dobot-functions.php:18
+msgid "Add New News & Events"
+msgstr ""
+
+#: dobot-functions.php:19
+msgid "Edit News & Events"
+msgstr ""
+
+#: dobot-functions.php:20
+msgid "New News & Events"
+msgstr ""
+
+#: dobot-functions.php:21
+msgid "All News & Events"
+msgstr ""
+
+#: dobot-functions.php:22
+msgid "View News & Events"
+msgstr ""
+
+#: dobot-functions.php:23
+msgid "Search News & Events"
+msgstr ""
+
+#: dobot-functions.php:24 dobot-functions.php:70 dobot-functions.php:143
+msgid "No events found"
+msgstr ""
+
+#: dobot-functions.php:25 dobot-functions.php:71 dobot-functions.php:144
+msgid "No events found in Trash"
+msgstr ""
+
+#: dobot-functions.php:53 dobot-functions.php:104 dobot-functions.php:202
+#: dobot-functions.php:347
+msgid "Author"
+msgstr ""
+
+#: dobot-functions.php:61 dobot-functions.php:62 dobot-functions.php:72
+msgid "Video Posts"
+msgstr ""
+
+#: dobot-functions.php:64
+msgid "Add New Video Posts"
+msgstr ""
+
+#: dobot-functions.php:65
+msgid "Edit Video Posts"
+msgstr ""
+
+#: dobot-functions.php:66
+msgid "New Video Posts"
+msgstr ""
+
+#: dobot-functions.php:67
+msgid "All Video Posts"
+msgstr ""
+
+#: dobot-functions.php:68
+msgid "View Video Posts"
+msgstr ""
+
+#: dobot-functions.php:69
+msgid "Search Video Posts"
+msgstr ""
+
+#: dobot-functions.php:105 dobot-functions.php:204 dobot-functions.php:348
+msgid "Categories"
+msgstr ""
+
+#: dobot-functions.php:134 dobot-functions.php:135 dobot-functions.php:145
+msgid "Tutorial"
+msgstr ""
+
+#: dobot-functions.php:137
+msgid "Add New Tutorial"
+msgstr ""
+
+#: dobot-functions.php:138
+msgid "Edit Tutorial"
+msgstr ""
+
+#: dobot-functions.php:139
+msgid "New Tutorial"
+msgstr ""
+
+#: dobot-functions.php:140
+msgid "All Tutorial"
+msgstr ""
+
+#: dobot-functions.php:141
+msgid "View Tutorial"
+msgstr ""
+
+#: dobot-functions.php:142
+msgid "Search Tutorial"
+msgstr ""
+
+#: dobot-functions.php:170 dobot-functions.php:184
+msgid "Category"
+msgstr ""
+
+#: dobot-functions.php:172 dobot-functions.php:316 dobot-functions.php:564
+msgid "Search..."
+msgstr ""
+
+#: dobot-functions.php:173 dobot-functions.php:317 dobot-functions.php:565
+msgid "Popular"
+msgstr ""
+
+#: dobot-functions.php:177 dobot-functions.php:321 dobot-functions.php:569
+msgid "Edit"
+msgstr ""
+
+#: dobot-functions.php:178 dobot-functions.php:322 dobot-functions.php:570
+msgid "Update"
+msgstr ""
+
+#: dobot-functions.php:179 dobot-functions.php:323 dobot-functions.php:571
+#: tax-meta-class/Tax-meta-class.php:392
+msgid "Add"
+msgstr ""
+
+#: dobot-functions.php:180 dobot-functions.php:572
+msgid "Category Name"
+msgstr ""
+
+#: dobot-functions.php:182 dobot-functions.php:326 dobot-functions.php:574
+msgid "Add Or Remove"
+msgstr ""
+
+#: dobot-functions.php:183 dobot-functions.php:327 dobot-functions.php:575
+msgid "Choose from the type often used in"
+msgstr ""
+
+#: dobot-functions.php:281
+msgid "Add New Entries"
+msgstr ""
+
+#: dobot-functions.php:282
+msgid "Edit Entries"
+msgstr ""
+
+#: dobot-functions.php:284
+msgid "All Entries"
+msgstr ""
+
+#: dobot-functions.php:285
+msgid "View Entries"
+msgstr ""
+
+#: dobot-functions.php:286
+msgid "Search Entries"
+msgstr ""
+
+#: dobot-functions.php:287
+msgid "No Entries found"
+msgstr ""
+
+#: dobot-functions.php:288
+msgid "No Entries found in Trash"
+msgstr ""
+
+#: dobot-functions.php:289 dobot-functions.php:314 dobot-functions.php:328
+msgid "Contest"
+msgstr ""
+
+#: dobot-functions.php:324
+msgid "Contest Name"
+msgstr ""
+
+#: dobot-functions.php:350 dobot-functions.php:376
+msgid "Votes"
+msgstr ""
+
+#: dobot-functions.php:464
+msgid "Collect Contest"
+msgstr ""
+
+#: dobot-functions.php:490
+msgid "ID"
+msgstr ""
+
+#: dobot-functions.php:507
+msgid "Sub Title"
+msgstr ""
+
+#: dobot-functions.php:526 dobot-functions.php:527 dobot-functions.php:531
+#: dobot-functions.php:537
+msgid "SEO"
+msgstr ""
+
+#: dobot-functions.php:529
+msgid "Add New SEO"
+msgstr ""
+
+#: dobot-functions.php:530
+msgid "Edit SEO"
+msgstr ""
+
+#: dobot-functions.php:532
+msgid "All SEO"
+msgstr ""
+
+#: dobot-functions.php:533
+msgid "View SEO"
+msgstr ""
+
+#: dobot-functions.php:534
+msgid "Search SEO"
+msgstr ""
+
+#: dobot-functions.php:535
+msgid "No SEO found"
+msgstr ""
+
+#: dobot-functions.php:536
+msgid "No SEO found in Trash"
+msgstr ""
+
+#: dobot-functions.php:562 dobot-functions.php:576
+msgid "SEO Category"
+msgstr ""
+
+#: dobot-functions.php:641
+msgid "Fill in web description "
+msgstr ""
+
+#: dobot-functions.php:642
+msgid "Web description: "
+msgstr ""
+
+#: dobot-functions.php:646
+msgid "Fill in the 'keyword' "
+msgstr ""
+
+#: dobot-functions.php:647
+msgid "Keywords:"
+msgstr ""
+
+#: dobot-functions.php:669
+msgid "Custom Module"
+msgstr ""
+
+#: download-center.php:20
+msgid "DOWNLOAD CENTER"
+msgstr ""
+
+#: download-center.php:21
+msgid ""
+"In order to run Dobot, please download the softwares and files according to "
+"your Dobot Arm’s Model.."
+msgstr ""
+
+#: download-center.php:46
+msgid "Download Centers"
+msgstr ""
+
+#: download-center.php:56
+msgid "Most Frequent Download"
+msgstr ""
+
+#: download-center.php:80 download-center.php:146 entries-detail.php:140
+#: tutorial-detail.php:116
+msgid "Download"
+msgstr ""
+
+#: download-center.php:161
+msgid "There are no data."
+msgstr ""
+
+#: download-center.php:166
+msgid "There are no category."
+msgstr ""
+
+#: download-center.php:174
+msgid "service in-store"
+msgstr ""
+
+#: download-center.php:175
+msgid "Find a location near you and register for a workshop."
+msgstr ""
+
+#: download-center.php:176
+msgid "Find a Workshop"
+msgstr ""
+
+#: entries-detail.php:59
+msgid "Contest List"
+msgstr ""
+
+#: entries-detail.php:85 entries-detail.php:204
+msgid "VOTES"
+msgstr ""
+
+#: entries-detail.php:99 entries-detail.php:101
+msgid "Vote Now!"
+msgstr ""
+
+#: entries-detail.php:157 tutorial-detail.php:133
+msgid "The tutorial has no content"
+msgstr ""
+
+#: entries-detail.php:169 tutorial-detail.php:145 video-detail.php:93
+msgid "COMMENTS"
+msgstr ""
+
+#: entries-detail.php:199
+msgid "Voting..."
+msgstr ""
+
+#: functions.php:307 inc/customizer/class-storefront-customizer.php:450
+msgid "More"
+msgstr ""
+
+#: functions.php:469
+msgid "BY"
+msgstr ""
+
+#: functions.php:510
+msgid "There are not comments."
+msgstr ""
+
+#: functions.php:512
+msgid "Post a comment"
+msgstr ""
+
+#: functions.php:689
+msgid "CN Site Address"
+msgstr ""
+
+#: functions.php:690
+msgid "EN Site Address"
+msgstr ""
+
+#: inc/admin/class-storefront-admin.php:56
+#, php-format
+msgid ""
+"Thanks for choosing Storefront! You can read hints and tips on how get the "
+"most out of your new theme on the %swelcome screen%s."
+msgstr ""
+
+#: inc/admin/class-storefront-admin.php:57
+msgid "Get started with Storefront"
+msgstr ""
+
+#: inc/admin/welcome-screen/component-contribute.php:10
+msgid "Customise Storefront"
+msgstr ""
+
+#: inc/admin/welcome-screen/component-contribute.php:11
+#, php-format
+msgid ""
+"We highly encourage you to make %s all yours. If you need to make a CSS "
+"tweak or add some custom JS or PHP, please use our Theme Customisations "
+"Plugin. Simply Click the button below, install as normal, and start "
+"Customizing today!"
+msgstr ""
+
+#: inc/admin/welcome-screen/component-contribute.php:15
+msgid "Download Theme Customisations"
+msgstr ""
+
+#: inc/admin/welcome-screen/component-contribute.php:21
+msgid "Contribute to Storefront"
+msgstr ""
+
+#: inc/admin/welcome-screen/component-contribute.php:22
+#, php-format
+msgid ""
+"Found a bug? Want to contribute a patch or create a new feature? %sGitHub is "
+"the place to go!%s Or would you like to translate %s into your language? "
+"%sGet involved on WordPress.org%s."
+msgstr ""
+
+#: inc/admin/welcome-screen/component-contribute.php:26
+msgid "Suggest a feature"
+msgstr ""
+
+#: inc/admin/welcome-screen/component-contribute.php:27
+#, php-format
+msgid ""
+"Please suggest and vote on ideas at the %s%s Ideas board%s. The most popular "
+"ideas will see prioritised development."
+msgstr ""
+
+#: inc/admin/welcome-screen/component-contribute.php:31
+msgid "Get support"
+msgstr ""
+
+#: inc/admin/welcome-screen/component-contribute.php:32
+#, php-format
+msgid ""
+"You can find a wide range of information on how to use and customise %s in "
+"our %sdocumentation%s. If you're a customer you can get support in our "
+"%sHelpdesk%3$s. Otherwise you can try posting on the WordPress.org %ssupport "
+"forums%3$s."
+msgstr ""
+
+#: inc/admin/welcome-screen/component-contribute.php:38
+#, php-format
+msgid "An %s project"
+msgstr ""
+
+#: inc/admin/welcome-screen/component-enhance.php:20
+#, php-format
+msgid "Enhance %s"
+msgstr ""
+
+#: inc/admin/welcome-screen/component-enhance.php:22
+#, php-format
+msgid ""
+"Take a look at our range of extensions that extend and enhance %s "
+"functionality."
+msgstr ""
+
+#: inc/admin/welcome-screen/component-enhance.php:39
+#: inc/admin/welcome-screen/component-enhance.php:81
+#: inc/admin/welcome-screen/component-enhance.php:111
+msgid ""
+"We're currently unable to retrieve these products. Please double check your "
+"internet connection or try back later."
+msgstr ""
+
+#: inc/admin/welcome-screen/component-enhance.php:46
+#, php-format
+msgid "View all %s extensions &rarr;"
+msgstr ""
+
+#: inc/admin/welcome-screen/component-enhance.php:52
+msgid "Child themes"
+msgstr ""
+
+#: inc/admin/welcome-screen/component-enhance.php:53
+#, php-format
+msgid ""
+"Take a look at our range of child themes for %s that allow you to easily "
+"change the look of your store to suit a specific industry."
+msgstr ""
+
+#: inc/admin/welcome-screen/component-enhance.php:62
+#: inc/admin/welcome-screen/component-enhance.php:106
+msgid "Free!"
+msgstr ""
+
+#: inc/admin/welcome-screen/component-enhance.php:86
+#, php-format
+msgid "View all %s child themes &rarr;"
+msgstr ""
+
+#: inc/admin/welcome-screen/component-enhance.php:92
+msgid "Install free plugins"
+msgstr ""
+
+#: inc/admin/welcome-screen/component-enhance.php:94
+#, php-format
+msgid ""
+"There are a number of free plugins available for %s on the WordPress.org "
+"%splugin repository%s. Here's a few we made earlier:"
+msgstr ""
+
+#: inc/admin/welcome-screen/component-intro.php:14
+#, php-format
+msgid ""
+"%sEnjoying %s?%s Why not %sleave a review%s on WordPress.org? We'd really "
+"appreciate it!"
+msgstr ""
+
+#: inc/admin/welcome-screen/component-intro.php:19
+#, php-format
+msgid "Built to enrich your %s store"
+msgstr ""
+
+#: inc/admin/welcome-screen/component-intro.php:21
+#, php-format
+msgid ""
+"Although %s works fine as a regular WordPress theme, it really shines when "
+"used for an online store. Install %s and start selling now."
+msgstr ""
+
+#: inc/admin/welcome-screen/component-intro.php:24
+#, php-format
+msgid "%s is activated"
+msgstr ""
+
+#: inc/admin/welcome-screen/component-intro.php:26
+#, php-format
+msgid "Install %s"
+msgstr ""
+
+#: inc/admin/welcome-screen/component-intro.php:31
+#, php-format
+msgid "Latest %s news"
+msgstr ""
+
+#: inc/admin/welcome-screen/component-intro.php:34
+msgid "Recent News"
+msgstr ""
+
+#: inc/admin/welcome-screen/component-intro.php:54
+msgid "Featured Docs"
+msgstr ""
+
+#: inc/admin/welcome-screen/component-intro.php:56
+msgid "Installation &amp; configuration"
+msgstr ""
+
+#: inc/admin/welcome-screen/component-intro.php:58
+msgid "Customizer settings"
+msgstr ""
+
+#: inc/admin/welcome-screen/component-intro.php:66
+#, php-format
+msgid "Stay up to date with Storefront developments on the %sdev blog%s."
+msgstr ""
+
+#: inc/class-storefront.php:87
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/class-storefront.php:88
+msgid "Secondary Menu"
+msgstr ""
+
+#: inc/class-storefront.php:89
+msgid "Handheld Menu"
+msgstr ""
+
+#: inc/class-storefront.php:138
+msgid "Sidebar"
+msgstr ""
+
+#: inc/class-storefront.php:144
+msgid "Below Header"
+msgstr ""
+
+#: inc/class-storefront.php:146
+msgid ""
+"Widgets added to this region will appear beneath the header and above the "
+"main content."
+msgstr ""
+
+#: inc/class-storefront.php:155
+#, php-format
+msgid "Footer %d"
+msgstr ""
+
+#: inc/class-storefront.php:157
+#, php-format
+msgid "Widgetized Footer Region %d."
+msgstr ""
+
+#: inc/customizer/class-storefront-customizer-control-more.php:28
+#, php-format
+msgid ""
+"There's a range of %s extensions available to put additional power in your "
+"hands. Check out the %s%s%s page in your dashboard for more information."
+msgstr ""
+
+#: inc/customizer/class-storefront-customizer-control-more.php:31
+#, php-format
+msgid "Enjoying %s?"
+msgstr ""
+
+#: inc/customizer/class-storefront-customizer-control-more.php:34
+#, php-format
+msgid ""
+"Why not leave us a review on %sWordPress.org%s?  We'd really appreciate it!"
+msgstr ""
+
+#: inc/customizer/class-storefront-customizer.php:140
+msgid "Background"
+msgstr ""
+
+#: inc/customizer/class-storefront-customizer.php:144
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/class-storefront-customizer.php:182
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer/class-storefront-customizer.php:195
+#: inc/customizer/class-storefront-customizer.php:316
+msgid "Heading color"
+msgstr ""
+
+#: inc/customizer/class-storefront-customizer.php:210
+#: inc/customizer/class-storefront-customizer.php:262
+#: inc/customizer/class-storefront-customizer.php:331
+#: inc/customizer/class-storefront-customizer.php:385
+msgid "Text color"
+msgstr ""
+
+#: inc/customizer/class-storefront-customizer.php:225
+msgid "Link / accent color"
+msgstr ""
+
+#: inc/customizer/class-storefront-customizer.php:234
+msgid "Header background image"
+msgstr ""
+
+#: inc/customizer/class-storefront-customizer.php:247
+#: inc/customizer/class-storefront-customizer.php:301
+#: inc/customizer/class-storefront-customizer.php:370
+msgid "Background color"
+msgstr ""
+
+#: inc/customizer/class-storefront-customizer.php:277
+#: inc/customizer/class-storefront-customizer.php:346
+msgid "Link color"
+msgstr ""
+
+#: inc/customizer/class-storefront-customizer.php:287
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/class-storefront-customizer.php:289
+msgid "Customise the look & feel of your web site footer."
+msgstr ""
+
+#: inc/customizer/class-storefront-customizer.php:356
+msgid "Buttons"
+msgstr ""
+
+#: inc/customizer/class-storefront-customizer.php:358
+msgid "Customise the look & feel of your web site buttons."
+msgstr ""
+
+#: inc/customizer/class-storefront-customizer.php:400
+msgid "Alternate button background color"
+msgstr ""
+
+#: inc/customizer/class-storefront-customizer.php:415
+msgid "Alternate button text color"
+msgstr ""
+
+#: inc/customizer/class-storefront-customizer.php:425
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer/class-storefront-customizer.php:437
+msgid "General Layout"
+msgstr ""
+
+#: inc/customizer/class-storefront-customizer.php:460
+msgid "Looking for more options?"
+msgstr ""
+
+#: inc/storefront-functions.php:861
+msgid "New"
+msgstr ""
+
+#: inc/storefront-functions.php:945 inc/storefront-functions.php:990
+msgid "READ MORE"
+msgstr ""
+
+#: inc/storefront-template-functions.php:68
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/storefront-template-functions.php:167
+msgid "Pricacy Pollcy"
+msgstr ""
+
+#: inc/storefront-template-functions.php:168
+msgid "Terms & Conditions"
+msgstr ""
+
+#: inc/storefront-template-functions.php:169
+msgid "Return Pollcy"
+msgstr ""
+
+#: inc/storefront-template-functions.php:271
+msgid "Primary Navigation"
+msgstr ""
+
+#: inc/storefront-template-functions.php:272
+msgid "Menu"
+msgstr ""
+
+#: inc/storefront-template-functions.php:305
+msgid "Secondary Navigation"
+msgstr ""
+
+#: inc/storefront-template-functions.php:329
+msgid "Skip to navigation"
+msgstr ""
+
+#: inc/storefront-template-functions.php:330
+msgid "Skip to content"
+msgstr ""
+
+#: inc/storefront-template-functions.php:365
+#: inc/storefront-template-functions.php:479
+msgid "Pages:"
+msgstr ""
+
+#: inc/storefront-template-functions.php:457
+msgid "NEWS"
+msgstr ""
+
+#: inc/storefront-template-functions.php:471
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: inc/storefront-template-functions.php:513
+msgid "Written by"
+msgstr ""
+
+#: inc/storefront-template-functions.php:519
+#: inc/storefront-template-functions.php:533
+msgid ", "
+msgstr ""
+
+#: inc/storefront-template-functions.php:524
+msgid "Posted in"
+msgstr ""
+
+#: inc/storefront-template-functions.php:538
+msgid "Tagged"
+msgstr ""
+
+#: inc/storefront-template-functions.php:551
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/storefront-template-functions.php:551
+msgid "1 Comment"
+msgstr ""
+
+#: inc/storefront-template-functions.php:551
+msgid "% Comments"
+msgstr ""
+
+#: inc/storefront-template-functions.php:569
+msgctxt "Next post"
+msgid "Next"
+msgstr ""
+
+#: inc/storefront-template-functions.php:570
+msgctxt "Previous post"
+msgid "Previous"
+msgstr ""
+
+#: inc/storefront-template-functions.php:608
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/storefront-template-functions.php:647
+msgid "Shop by Category"
+msgstr ""
+
+#: inc/storefront-template-functions.php:688
+msgid "New In"
+msgstr ""
+
+#: inc/storefront-template-functions.php:729
+msgid "We Recommend"
+msgstr ""
+
+#: inc/storefront-template-functions.php:770
+msgid "Fan Favorites"
+msgstr ""
+
+#: inc/storefront-template-functions.php:809
+msgid "On Sale"
+msgstr ""
+
+#: inc/storefront-template-functions.php:846
+msgid "Best Sellers"
+msgstr ""
+
+#: inc/storefront-template-functions.php:1066
+#: inc/storefront-template-functions.php:1092
+msgid "Log Out"
+msgstr ""
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:74
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:314
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:218
+msgid "Featured Products"
+msgstr ""
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:226
+msgid "On Sale Now"
+msgstr ""
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:234
+msgid "New In Store"
+msgstr ""
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:301
+#: tutorials.php:30 videos.php:19
+msgid "Search"
+msgstr ""
+
+#: inc/woocommerce/storefront-woocommerce-template-functions.php:328
+msgid "My Account"
+msgstr ""
+
+#: news-events.php:31
+msgid "Company info"
+msgstr ""
+
+#: news-events.php:51
+msgid "ALL"
+msgstr ""
+
+#: news-events.php:52
+msgid "News"
+msgstr ""
+
+#: news-events.php:53
+msgid "Media Coverage"
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: tax-meta-class/Tax-meta-class.php:379 tax-meta-class/Tax-meta-class.php:426
+msgid "Remove"
+msgstr ""
+
+#: tax-meta-class/Tax-meta-class.php:725
+msgid "Remove Image"
+msgstr ""
+
+#: tax-meta-class/Tax-meta-class.php:727
+msgid "Upload Image"
+msgstr ""
+
+#: tutorial-detail.php:35 video-detail.php:32
+msgid "Login to praise"
+msgstr ""
+
+#: tutorial-detail.php:36 video-detail.php:33
+msgid "Login"
+msgstr ""
+
+#: tutorial-detail.php:51
+msgid "Tutorials"
+msgstr ""
+
+#: tutorial-detail.php:169 video-detail.php:118
+msgid "You May Also Like"
+msgstr ""
+
+#: tutorials.php:25
+msgid "DOBOT TUTORIAL"
+msgstr ""
+
+#: tutorials.php:26
+msgid "Ignite your creative hearts and show off your amazing tutorials."
+msgstr ""
+
+#: tutorials.php:29
+msgid "Search Support…"
+msgstr ""
+
+#: tutorials.php:68
+msgid "Most popular tutorials"
+msgstr ""
+
+#: tutorials.php:108
+msgid "All Tutorials:"
+msgstr ""
+
+#: tutorials.php:108
+msgid "tutorials posted"
+msgstr ""
+
+#: tutorials.php:117 videos.php:144
+msgid "Sort By: "
+msgstr ""
+
+#: tutorials.php:150 videos.php:171
+msgid "There are no data!"
+msgstr ""
+
+#: video-detail.php:44
+msgid "Videos"
+msgstr ""
+
+#: videos.php:13
+msgid "DOBOT VIDEO GALLERY"
+msgstr ""
+
+#: videos.php:14
+msgid ""
+"Offering helpful and professional videos for technical problems and updated "
+"topic.\n"
+msgstr ""
+
+#: videos.php:18
+msgid "Search Video…"
+msgstr ""
+
+#: videos.php:48
+msgid "Others"
+msgstr ""
+
+#: videos.php:135
+msgid "All Vidoes:"
+msgstr ""
+
+#: videos.php:135
+msgid "videos posted"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:28
+#, php-format
+msgid "You have received an order from %s. The order is as follows:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Dobot"
+msgstr ""
